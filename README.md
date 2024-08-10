@@ -1,5 +1,4 @@
 # Autoencoder Image Compression and Reconstruction
-# Autoencoder Image Compression and Reconstruction
 
 This repository demonstrates a simple autoencoder model for compressing and reconstructing images. The autoencoder is built using TensorFlow and Keras and is trained on a dataset of images to learn a compressed representation in the latent space, which can then be used to reconstruct the original images.
 
@@ -121,13 +120,6 @@ The autoencoder compresses the images into a latent space representation and the
 ![Image](Figure_3.png)
 ![Image](Figure_4.png)
 ![Image](Figure_5.png)
-
-
-#### Latent Space Representation
-
-![Latent Space](results/latent_space1.png)
-
-*Note: The latent space images are visualized by taking the average over the feature maps in the latent representation.*
 
 
 
